@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend layout of a modern shopping website created using HTML, CSS, and JavaScript. The project features a clean user interface with multiple product sections, a stylish homepage, and basic interactivity designed for desktop and mobile screens.
 
-Currently, two official plugins are available:
+🌟 Features:
+🖼️ Beautiful landing page design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧾 Product cards with images, prices, and CTA buttons
+
+🧭 Responsive navigation bar
+
+📱 Fully responsive layout for desktop & mobile
+
+💡 Interactive elements (e.g. button hovers, menu toggles)
+
+🛠️ Tech Stack:
+HTML5 – Markup and structure
+
+CSS3 – Styling and responsiveness
